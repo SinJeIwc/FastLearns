@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 # Disclaimer  
 
 I do not claim any copyright over this project, as it does not belong to me.  
 The original source code is publicly available and was used solely for educational purposes.  
 
 If you are the original author and would like this repository to be removed or modified, please contact me.  
+=======
+# Disclaimer  
+
+I do not claim any copyright over this project, as it does not belong to me.  
+The original source code is publicly available and was used solely for educational purposes.  
+
+If you are the original author and would like this repository to be removed or modified, please contact me.  
+>>>>>>> origin/main
